@@ -6,3 +6,4 @@ append  2 version
 git reset HEAD test.txt
 append branch feature & master
 feature
+master
