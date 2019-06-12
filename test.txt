@@ -4,4 +4,4 @@ Git will a new word
 we will start
 append  2 version
 git reset HEAD test.txt
-append branch 3
+append branch feature & master
