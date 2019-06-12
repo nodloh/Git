@@ -7,3 +7,4 @@ git reset HEAD test.txt
 
 append branch feature and master
 
+master
